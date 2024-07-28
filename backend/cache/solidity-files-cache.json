@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Jaskirat\\Desktop\\Web Dev\\BlockTrade\\backend\\contracts\\Marketplace.sol": {
+      "lastModificationDate": 1722170049604,
+      "contentHash": "f86e2a9d13745dd219606ec0eaa450ee",
+      "sourceName": "contracts/Marketplace.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "Marketplace"
+      ]
+    }
+  }
+}

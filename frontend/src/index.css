@@ -1,0 +1,33 @@
+/* Global styles for your React application
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  } */
+  
+  /* Theme-specific styles */
+  /* html[data-theme="black"] {
+    background-color: black;
+    color: white;
+  }
+  
+  html[data-theme="black"] h1 {
+    color: white;
+  } */ 
+
+  body {
+    background-color: #faf8f800;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+
+  
